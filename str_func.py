@@ -3,4 +3,7 @@ def str_upper(value):
 
 
 def str_title(value):
+    """
+    Принимает слово и возвращает его с большой буквы
+    """
     return value.title()
